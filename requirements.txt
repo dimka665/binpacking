@@ -1,0 +1,5 @@
+
+# Install dependencies BEFORE matplotlib installation
+# apt-get install -y libfreetype6-dev tk tk-dev python-tk
+
+matplotlib>=1.4,<2
